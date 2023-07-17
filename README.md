@@ -14,6 +14,7 @@ Os conteúdos principais  a serem estudados são:
 
 ## 🔗Link de Acesso
 - Deploy Surge: https://labeddir-arthur-fullstack.surge.sh
+- Link Backend: https://github.com/devfelixarthur/Labeedit_Backend
 
 ## 📄Concepção do Projeto
 
